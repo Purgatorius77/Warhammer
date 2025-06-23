@@ -3,7 +3,7 @@ name: Warhammer armies
 on:
   push: 
     branches:
-      - main:
+      - main
 
 jobs: 
   hello:
